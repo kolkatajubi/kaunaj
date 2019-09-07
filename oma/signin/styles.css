@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main-box {
+    background: rgb(185, 180, 236);
+    font-size: 50px;
+    width: 100vw;
+    height: 100vh
+}
+
+#name-box {
+    width: 90vw;
+}
+
+.loggedInElements {
+    font-size: 50px;
+    margin: 10px 10px;
+}
+
+#submit {
+    width: 200px;
+    height: 50px;
+    margin: 10px 10px;
+    font-size: 40px;
+    border-radius: 5px;
+}
